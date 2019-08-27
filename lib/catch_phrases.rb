@@ -3,9 +3,11 @@ def mario
   def phrase
     "It's-a me, Mario!"
   end
+  puts phrase
 end
-puts phrase
+puts mario
 
 def toadstool
   puts $status
 end
+puts toadstool
