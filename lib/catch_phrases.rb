@@ -11,3 +11,6 @@ def toadstool
   puts $status
 end
 puts toadstool
+
+def link 
+  ""
